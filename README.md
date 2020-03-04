@@ -35,9 +35,9 @@
 * [Products](#Products)
   * [Fields](#Fields)
   * [Products Datasheets](#Products-Datasheets)
-<!-- * [License](#license) -->
 * [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
+<!-- * [License](#license) -->
+<!-- * [Acknowledgements](#acknowledgements) -->
 
 
 
@@ -64,18 +64,18 @@ To get a local copy up and running follow these simple example steps.
 
 
 ### Products Datasheets
-* Co2 Sensor
-* Ethernet remote IO
-* Flasher
-* Flow Meter
-* Hydrogen Sensor
-* Monitoring Software
-* O2 Sensor
-* Particle Sensor
-* PoE Sound Alarm
-* Temperature and Relative Humidity Sensor
-* Ultrasonic Fuel Level meter
-* Vibration Sensor
+* [Co2 Sensor](https://github.com/Prochista/Prochista-Bio/blob/master/Products%20Datasheets/CO2.pdf)
+* [Ethernet remote IO](https://github.com/Prochista/Prochista-Bio/blob/master/Products%20Datasheets/Ethernet%20remote%20IO%20with%202-port%20Ethernet%20switch.pdf)
+* [Flasher](https://github.com/Prochista/Prochista-Bio/blob/master/Products%20Datasheets/Flasher.pdf)
+* [Flow Meter](https://github.com/Prochista/Prochista-Bio/blob/master/Products%20Datasheets/Flow%20Meter-%20PCT-EH05DFM0143.pdf)
+* [Hydrogen Sensor](https://github.com/Prochista/Prochista-Bio/blob/master/Products%20Datasheets/Hydrogen.pdf)
+* [Monitoring Software](https://github.com/Prochista/Prochista-Bio/blob/master/Products%20Datasheets/Monitoring%20Software.pdf)
+* [O2 Sensor](https://github.com/Prochista/Prochista-Bio/blob/master/Products%20Datasheets/O2%20sensor%2C%20Quick%20Guide.pdf)
+* [Particle Sensor](https://github.com/Prochista/Prochista-Bio/blob/master/Products%20Datasheets/Particle%20sensor.pdf)
+* [PoE Sound Alarm](https://github.com/Prochista/Prochista-Bio/blob/master/Products%20Datasheets/PoE%20Sound%20Alarm.pdf)
+* [Temperature and Relative Humidity Sensor](https://github.com/Prochista/Prochista-Bio/blob/master/Products%20Datasheets/Temperature%20and%20Relative%20Humidity%20Sensor.pdf)
+* [Ultrasonic Fuel Level meter](https://github.com/Prochista/Prochista-Bio/blob/master/Products%20Datasheets/Ultrasonic%20Fuel%20Level%20meter-PCT-EH05DLM0148.pdf)
+* [Vibration Sensor](https://github.com/Prochista/Prochista-Bio/blob/master/Products%20Datasheets/Vibration%20Sensor.pdf)
 
 
 <!-- LICENSE ## License -->
@@ -94,7 +94,7 @@ Git Link: [https://github.com/Prochista/Prochista-Bio](https://github.com/Prochi
 
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
+<!-- ## Acknowledgements
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
 * [Choose an Open Source License](https://choosealicense.com)
@@ -105,7 +105,8 @@ Git Link: [https://github.com/Prochista/Prochista-Bio](https://github.com/Prochi
 * [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
 * [Sticky Kit](http://leafo.net/sticky-kit)
 * [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
+* [Font Awesome](https://fontawesome.com) 
+  -->
 
 
 
