@@ -31,7 +31,7 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [About Prochista](#about-the-project)
+* [About Prochista](#about-Prochista)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
