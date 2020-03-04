@@ -1,4 +1,4 @@
-<center>
+
   
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -6,31 +6,23 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
-</center>
 
 <!-- [![LinkedIn][linkedin-shield]][linkedin-url]  -->
 
 
 <!-- PROJECT LOGO -->
 <br />
+<br />
 <p align="center">
-  <a href="https://github.com/Prochista/Test-rep">
+  <a href="https://github.com/Prochista/Prochista-Bio">
     <img src="images/Prochista-logo.png" alt="Logo" width="400" height="103">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
-
+  <h3 align="center">Prochista Smart Technology</h3>
   <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    Here you can find more informations about products in Prochista's company. 
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
   </p>
 </p>
 
