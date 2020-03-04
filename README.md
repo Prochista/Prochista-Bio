@@ -2,9 +2,9 @@
   
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+<!--[![Stargazers][stars-shield]][stars-url]-->
+<!--[![Issues][issues-shield]][issues-url]-->
+<!--[![MIT License][license-shield]][license-url] -->
 
 
 <!-- [![LinkedIn][linkedin-shield]][linkedin-url]  -->
@@ -76,6 +76,7 @@ To get a local copy up and running follow these simple example steps.
 * [Temperature and Relative Humidity Sensor](https://github.com/Prochista/Prochista-Bio/blob/master/Products%20Datasheets/Temperature%20and%20Relative%20Humidity%20Sensor.pdf)
 * [Ultrasonic Fuel Level meter](https://github.com/Prochista/Prochista-Bio/blob/master/Products%20Datasheets/Ultrasonic%20Fuel%20Level%20meter-PCT-EH05DLM0148.pdf)
 * [Vibration Sensor](https://github.com/Prochista/Prochista-Bio/blob/master/Products%20Datasheets/Vibration%20Sensor.pdf)
+* [Leakage Sensor](https://github.com/Prochista/Prochista-Bio/blob/master/Products%20Datasheets/leakage.pdf)
 
 
 <!-- LICENSE ## License -->
