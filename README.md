@@ -46,7 +46,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About Prochista
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
