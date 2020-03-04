@@ -11,7 +11,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Prochista/Test-rep">
-    <img src="images/Prochista-logo.png" alt="Logo" width="80" height="80">
+    <img src="images/Prochista-logo.png" alt="Logo" width="400" height="103">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
