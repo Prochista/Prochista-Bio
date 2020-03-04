@@ -1,4 +1,7 @@
 <p align="center">
+  <img width="460" height="300" src="https://img.shields.io/github/contributors/prochista/Prochista-Bio?style=plastic">
+</p>
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
