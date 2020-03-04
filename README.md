@@ -44,7 +44,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About Prochista
 
-[![Product Name Screen Shot][product-screenshot]](https://www.prochista.ir)
+<!-- [![Product Name Screen Shot][product-screenshot]](https://www.prochista.ir)-->
 
 Prochista is a  company that has established a reputation in the Mechatronic and Robotic solutions. Prochista is active in various fields and branches, such as Monitoring Software design, Artificial intelligence, IoT and Robotic projects. 
 Enhance people's lives is one of the main goals of Prochista's company and to achieve this goal, Prochista has been working on robots to help disabled people, robots in hospitals and even service-typed robots to enhance the user experience in places such as banks. On the other hand, to provide ease of access for people Prochista is working in the smart-house field to bring more comfort for people's everyday life.
