@@ -48,18 +48,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About Prochista
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://www.prochista.ir)
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
+Prochista is a privately-owned company located in Tehran/Iran that has established a reputation in the Mechatronic and Robotic solutions. Prochista is active in various fields and branches, such as Monitoring Software design, Artificial intelligence, IoT and Robotic projects. 
+Enhance people's lives is one of the main goals of Prochista's company and to achieve this goal, Prochista has been working on robots to help disabled people, robots in hospitals and even service-typed robots to enhance the user experience in places such as banks. On the other hand, to provide ease of access for people Prochista is working in the smart-house field to bring more comfort for people's everyday life.
+Meanwhile, Prochista has built several products such as a Particle sensor, TH sensor, leakage sensor, and several other products in related fields while designing and developing the Prochista monitoring software to handle a vast majority of applications from data centers to banks and smart-homes.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
 ### Built With
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
